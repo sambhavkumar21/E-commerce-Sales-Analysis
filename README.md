@@ -106,8 +106,8 @@ https://public.tableau.com/views/E-CommerceSalesDashboard_17794785991740/E-Comme
 1)Excel Dashboard
 2)E-commerce SQL Analysis
 3)Tableau Dashboard
-4)Screenshot dashboard
-5)Documentation Project Insights
+4)Dashboard Screenshot
+5)Project Documentation
 6)README
 
 # Conclusion:
