@@ -96,8 +96,7 @@ An interactive Tableau dashboard was created to visualize:
 - Documentation File
 
 # Dashboard Preview:
-
-
+![Dashboard](E-Commerce Sales Tableau Dashboard.png)
 
 # Project Structure:
 ecommerce-sales-analysis/
