@@ -96,19 +96,19 @@ An interactive Tableau dashboard was created to visualize:
 - Documentation File
 
 # Dashboard Preview:
-![Tableau Dashboard](dashboard-screenshot.png)
+![Tableau Dashboard](E-Commerce Sales Tableau Dashboard.png)
 
 # Tableau Link:
 https://public.tableau.com/views/E-CommerceSalesDashboard_17794785991740/E-CommerceSalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 # Project Structure:
 
-1)Excel_Dashboard.xlsx
-2)Ecommerce_SQL_Analysis.sql
-3)Tableau_Dashboard.pdf
-4)Screenshot-dashboard.png
-5)Documentation_Project_Insights.docx
-6)README.md
+1)Excel Dashboard
+2)E-commerce SQL Analysis
+3)Tableau Dashboard
+4)Screenshot dashboard
+5)Documentation Project Insights
+6)README
 
 # Conclusion:
 This project demonstrates:
