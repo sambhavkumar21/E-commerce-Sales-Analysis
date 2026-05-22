@@ -96,7 +96,7 @@ An interactive Tableau dashboard was created to visualize:
 - Documentation File
 
 # Dashboard Preview:
-![Tableau Dashboard](E-Commerce Sales Tableau Dashboard.png)
+![Tableau Dashboard](ECommerceSalesTableau-dashboard.png)
 
 # Tableau Link:
 https://public.tableau.com/views/E-CommerceSalesDashboard_17794785991740/E-CommerceSalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
